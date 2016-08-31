@@ -12,5 +12,10 @@ namespace TestProject
         {
             Console.Write("Hello");
         }
+        void ThisisAMEthod()
+        {
+            return;
+        }
+
     }
 }
