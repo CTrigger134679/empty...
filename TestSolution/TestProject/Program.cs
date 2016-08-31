@@ -12,10 +12,5 @@ namespace TestProject
         {
             Console.Write()
         }
-        void ThisisAMEthod()
-        {
-            return;
-        }
-
     }
 }
