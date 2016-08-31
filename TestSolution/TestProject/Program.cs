@@ -10,7 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
+            Console.Write()
         }
         void ThisisAMEthod()
         {
